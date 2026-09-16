@@ -9,4 +9,4 @@ the design was inspired by other layouts that I found online.
 I recreated the design in Figma first so I can practice using this tool,
 and then I started styling it using CSS only.
 
-![Frontend](./images/tictactoevanilla.png?raw=true "Frontend")
+![Frontend](./images/tictactoe.png?raw=true "Frontend")
